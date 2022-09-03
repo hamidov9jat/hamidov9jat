@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning python and blockchain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: hamidov9jat@gmail.com
+Discord: 9jat#8597
+Twitter: @hamidov9jat
+Instagram: hamidov9jat
 
 <!---
 hamidov9jat/hamidov9jat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
